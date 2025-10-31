@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 st.title("🍉 Fruit Classifier - Détection automatique")
-st.write("Glissez-déposez une photo d’un fruit ci-dessous pour découvrir dans quel état estfruit! 🍊🍏🍒")
+st.write("Glissez-déposez une photo d’un fruit ci-dessous pour découvrir dans quel état est le fruit! 🍊🍏🍒")
 
 # -----------------------------------------------------------
 # 📦 CHARGEMENT DU MODÈLE
